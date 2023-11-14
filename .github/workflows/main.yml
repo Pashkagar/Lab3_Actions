@@ -8,7 +8,7 @@ jobs:
     env:
       COVERAGE_HTML_REPORT_PATH: /tmp/coverage_html_report
       COVERAGE_XML_REPORT_PATH: /tmp/coverage_xml_report.xml
-      PYTEST_REPORT_PATH: /tmp/pytest_report.html
+      PYTEST_REPORT_PATH: /tmp/report.html
     steps:
       - name: "Checkout repository"
         uses: actions/checkout@v3
