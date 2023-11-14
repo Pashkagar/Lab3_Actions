@@ -1,6 +1,6 @@
 import pytest
 
-from mylib import fibonacci
+from src.mylib import fibonacci
 
 
 # ввод положительных значений

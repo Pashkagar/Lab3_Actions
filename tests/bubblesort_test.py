@@ -1,5 +1,5 @@
 import pytest
-from mylib import bubble_sort
+from src.mylib import bubble_sort
 
 
 # для списка с int

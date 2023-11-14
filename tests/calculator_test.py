@@ -1,5 +1,5 @@
 import pytest
-from mylib import calculator
+from src.mylib import calculator
 
 
 # проверка +
